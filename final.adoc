@@ -11,9 +11,6 @@ include::registration.adoc[]
 
 include::buy.adoc[]
 
-== Сборка инструкций в pdf
-
-image::instruction.pdf[]
 
 
 
