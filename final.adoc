@@ -1,0 +1,19 @@
+= Ascii Doc
+
+:toc: auto
+:toc-title: Инструкция по покупке билета на сайте "РЖД"
+
+== Инструкция "Регистрация в личном кабинете"
+
+include::registration.adoc[]
+
+== Инструкция "Покупка билета"
+
+include::buy.adoc[]
+
+== Сборка инструкций в pdf
+
+image::instruction.pdf[]
+
+
+
